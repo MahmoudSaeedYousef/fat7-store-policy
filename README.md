@@ -1,0 +1,1 @@
+# fat7-store-policy
